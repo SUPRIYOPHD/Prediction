@@ -1,6 +1,6 @@
 # Stock Market Prediction Using Daily News Articles
 
-Aim of Project:
+Target of Project:
 
 The aim of this project is to analyze these daily news feeds by using deep learning approaches and investigate the correlation between the large-scale daily news feeds and the stock market values over time.
 
